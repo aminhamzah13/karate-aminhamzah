@@ -1,4 +1,4 @@
-Feature: petstore user Api Test
+Feature: petstore user API Test
 
   Background:
     * url baseURL
