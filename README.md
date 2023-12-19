@@ -1,3 +1,3 @@
-# Karate Template
+# Karate - Amin Hamzah
 
-Refer to the [Getting Started Guide](https://github.com/karatelabs/karate/wiki/Get-Started:-Maven-and-Gradle#github-template) for instructions.
+![image](https://github.com/aminhamzah13/karate-aminhamzah/assets/54876709/eb21ad37-aa78-4d25-95b1-9f4127bf0909)
